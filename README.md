@@ -24,7 +24,7 @@ This program allows users to enter student data (name, address, GPA) through the
 
 StudentDataEntry.java
 ![StudentDataEntry.java](Screenshots/StudentDataEntrySC.png)
-![StudentDataEntry.java](Screenshots/StudentDataEntrySC2.png)
+![StudentDataEntry.java](Screenshots/StudentDataEntrySC1.png)
 
 Student Class
 ![Student Class](Screenshots/StudentClass.png)
