@@ -1,0 +1,15 @@
+# Ignore class files (compiled Java)
+*.class
+
+# Ignore text output file
+students.txt
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings folder (optional, if sharing)
+.vscode/
+
+# Ignore logs or temp files
+*.log
