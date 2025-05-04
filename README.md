@@ -20,7 +20,7 @@ This program allows users to enter student data (name, address, GPA) through the
 
 4. Check output in students.txt.
 
-## Screenshot
+## Screenshots
 
 StudentDataEntry.java
 ![StudentDataEntry.java](Screenshots/StudentDataEntrySC.png)
